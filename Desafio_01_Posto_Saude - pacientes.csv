@@ -1,0 +1,11 @@
+paciente_id,nome_ficticio,data_nascimento,sexo,bairro,tipo_convenio
+602.276.804-72,Caleb Cunha,2026-03-13,M,Serra Do Curral,Particular
+774.428.714-29,Eduardo Cunha,2026-10-22,F,Calafate,Particular
+333.204.190-80,Luiz Miguel Oliveira,2026-03-01,M,Bacurau,SUS
+220.212.633-39,João Felipe Sampaio,2026-10-16,M,Ventosa,SUS
+171.396.568-27,Ian Andrade,2026-09-05,F,Inconfidência,Particular
+298.363.942-81,Vitor Gabriel da Luz,2026-08-19,F,São Lucas,SUS
+329.500.167-74,Ana Luiza Gomes,2026-04-28,F,São Geraldo,convenio
+980.765.261-83,Eduarda Marques,2026-01-01,F,Santa Maria,Particular
+516.851.319-05,Agatha Peixoto,2026-04-10,M,Camponesa 2ª Seção,convenio
+883.089.040-50,Carolina Cardoso,2026-07-23,M,Heliopolis,SUS
